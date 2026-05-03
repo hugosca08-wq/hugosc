@@ -9,6 +9,8 @@ public class refactorMain {
         metodoExtraido();
 
         System.out.println("Modificacion 2 desde GitHub");
+
+        System.out.println("Hola desde la nueva rama");
     }
 
     private static void metodoExtraido() {
