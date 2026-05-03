@@ -8,7 +8,7 @@ public class refactorMain {
 
         metodoExtraido();
 
-        System.out.println("Modificado desde GitHub");
+        System.out.println("Modificado desde IntelliJ");
     }
 
     private static void metodoExtraido() {
